@@ -1,0 +1,10 @@
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\bin\Debug\PEERTOPEER12.exe.config
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\bin\Debug\PEERTOPEER12.exe
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\bin\Debug\PEERTOPEER12.pdb
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.csproj.AssemblyReference.cache
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.Form1.resources
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.Properties.Resources.resources
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.csproj.GenerateResource.cache
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.csproj.CoreCompileInputs.cache
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.exe
+C:\Users\nassnode\source\repos\PEERTOPEER12\PEERTOPEER12\obj\Debug\PEERTOPEER12.pdb
